@@ -1,4 +1,4 @@
-function loadPage(){
+function loadPage() {
   $('.option').click(changePage);
 }
 

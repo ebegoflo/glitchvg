@@ -1,5 +1,7 @@
 # Glitch
 
+![gamers](assets/images/logo-glitch.jpg)
+
 ## Origen
 
 Glitch nace como una comunidad dirigida al público femenino que juega videojuegos.

@@ -3,3 +3,10 @@
   margin-top: 1vh;
   width: 14vw;
 }
+
+#section_news > div > div > img,
+#section_reviews > div > div > img,
+#section_articles > div > div > img {
+  height: 26vh;
+  width: 21.5vw;
+}
