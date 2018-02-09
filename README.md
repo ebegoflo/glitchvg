@@ -38,7 +38,7 @@ El 74,2% también le gusto la idea de tener una comunidad con la cual pudieran e
 
 Nuestro equipo está conformado por:
 
-1. Samahara Fernández (Base de datos, investigación)
+1. Samahara Fernández (Desarrollo, investigación, base de datos)
 2. Ebenezer Gómez (Diseño y desarrollo)
 3. Itzel Molina (Diseño y desarrollo)
 4. Erika Molina (Diseño y desarrollo)
