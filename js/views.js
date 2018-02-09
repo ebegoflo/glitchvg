@@ -9,7 +9,7 @@ function changePage() {
     window.location = "../views/article.html";
   } else if ($option === "reviews") {
     window.location = "../views/reviews.html";
-  } else if ($option === "logo-container") {
+  } else if ($option === "logo") {
     window.location = "../index.html";
   }
 }
